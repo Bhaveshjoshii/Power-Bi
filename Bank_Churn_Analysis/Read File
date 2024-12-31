@@ -1,1 +1,21 @@
+Hi, 
+In this project, we have imported CSV file in Power BI
+Transform data as per requiments - 
+> we have created age group by grouping age
+> group for credit score also 
+> created reference table to make index on credit score,age 
+
+
+
+KPI 
+
+>How many customers are active users 
+>No of customers by credit card status
+>customers by country 
+>no of customer in different products 
+>customer and churn rate by age
+>customer and churn rate by credit score
+>customer and churn rate by account balance 
+
+
 
